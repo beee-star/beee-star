@@ -1,6 +1,6 @@
 # Hi, I'm Belta 👋
 
-I'm a fourth-year Computer Science student at Kiriri Women's University of Science and Technology (KWUST) in Nairobi, Kenya, and I'm graduating in October 2027.
+I'm a fourth-year Computer Science student at Kiriri Women's University of Science and Technology (KWUST) in Nairobi, Kenya
 
 I'm interested in building software that solves everyday problems for real people, and I'm now focusing on growing my web development skills.
 
