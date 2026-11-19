@@ -2,7 +2,7 @@
 
 I'm a fourth-year Computer Science student at Kiriri Women's University of Science and Technology (KWUST) in Nairobi, Kenya
 
-I'm interested in building software that solves everyday problems for real people, and I'm now focusing on growing my web development skills.
+I'm interested in building software that solves everyday problems for real people, and I'm now focusing on growing my data analytics and maybe web development skills.
 
 ## What I'm Working On
 
